@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Activitat02Hash", "Activitat02Hash\Activitat02Hash.csproj", "{669C7519-B8A4-4C20-B595-FBC3D75439D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{669C7519-B8A4-4C20-B595-FBC3D75439D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{669C7519-B8A4-4C20-B595-FBC3D75439D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{669C7519-B8A4-4C20-B595-FBC3D75439D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{669C7519-B8A4-4C20-B595-FBC3D75439D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
